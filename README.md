@@ -34,7 +34,7 @@ code block
 
 link
 
-[네이버](https:www.naver.com)
+[네이버](https://www.naver.com)
 
 ---
 
@@ -58,7 +58,7 @@ link
 
 ---
 
-[치트시트](https:www.markdownguide.org/cheat-sheet/)
+[치트시트](https://www.markdownguide.org/cheat-sheet/)
 
 
 
